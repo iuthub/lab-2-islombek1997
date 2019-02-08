@@ -1,0 +1,53 @@
+body{
+    background-color: snow;
+}
+h1{
+    color: brown;
+    text-align: center;
+}
+img{
+    width: 525px;
+    height: 350px;
+}
+#text_under_name{
+    color: darkred;
+    text-align: center;
+}
+
+h2{
+    color: brown;
+}
+ul{
+    font-family: "Times New Roman";
+    font-size: 18px;
+}
+ol{
+    font-family: "Times New Roman";
+    font-size: 18px;
+}
+p {
+    font-family: Calibri;
+    font-weight: bold;
+    font-size: 18px;
+    font-style: normal;
+}
+pre {
+    font-family: Calibri;
+    font-weight: bold;
+    font-size: 18px;
+    font-style: normal;
+}
+.italic{
+    font-style: italic;
+}
+a:active, a:hover{
+    color:red;
+    text-decoration: underline;
+}
+a {
+    text-decoration: none;
+}
+p::first-letter {
+    color: #ff0000;
+    font-size: xx-large;
+}
